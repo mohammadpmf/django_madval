@@ -1,5 +1,5 @@
 # django_madval
-A django package to use either persian numbers or comma separated persian numbers on djanog. Also can translate weekdays to persian.
+A django package to use either persian numbers or comma separated persian numbers on djanog. You can also translate weekdays to persian!
 
 
 # How to use? (چگونه استفاده کنیم؟)
